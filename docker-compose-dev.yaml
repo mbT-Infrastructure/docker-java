@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+
+  docker-java:
+    container_name: docker-java
+    build: .
+    volumes:
+      - "./data-local:/media/docker-java"

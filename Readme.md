@@ -1,6 +1,6 @@
 # Docker image
 
-This Docker image contains a Java install.
+This Docker image contains a Java installation.
 
 
 ## Development

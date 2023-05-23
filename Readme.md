@@ -1,4 +1,4 @@
-# Docker image
+# Java image
 
 This Docker image contains a Java installation.
 
